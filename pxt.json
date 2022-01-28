@@ -1,5 +1,5 @@
 {
-    "name": "sterowanie_kropka",
+    "name": "gra_snap_the_dot",
     "description": "",
     "dependencies": {
         "core": "*",
